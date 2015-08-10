@@ -1,0 +1,9 @@
+*.mat
+mfcc_coding/.project
+mfcc_coding/.pydevproject
+mfcc_coding/.settings/org.eclipse.core.resources.prefs
+*.docx
+*.xlsx
+*.log
+*.rar
+*.pyc
